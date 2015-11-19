@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3.4
 import collections
 
 Card = collections.namedtuple('Card', ['rank', 'suit'])
